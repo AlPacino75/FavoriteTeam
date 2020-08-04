@@ -1,0 +1,19 @@
+
+.search-header  {
+	text-align: right;
+  background-color: #333;
+  padding:0px 20px 15px 0px;
+}
+
+input[type=text] {
+  /* background-image: url('searchicon.png'); */
+  padding: 6px 3px 6px 3px;
+  box-sizing: border-box;
+}
+
+
+button {
+  /* background-image: url('searchicon.png'); */
+  padding: 6px 3px 6px 3px;
+  box-sizing: border-box;
+}

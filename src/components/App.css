@@ -1,0 +1,17 @@
+.container {
+  width: 80%;
+  font-size: 16px;;
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+}
+
+a, u {
+  text-decoration: none;
+}
+
+.break {
+  flex-basis: 100%;
+  height: 0;
+}
+

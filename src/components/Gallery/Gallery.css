@@ -1,0 +1,40 @@
+.gallery-image {
+	max-width: 550px;
+	height: auto;
+	border-radius: 9px;
+}
+
+.section-gallery{
+	border: solid 1px gainsboro;
+	padding:30px;
+	background-color: ghostwhite;
+
+}
+
+.main-gallery  {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+
+}
+
+.item {
+  flex-basis: auto; 
+}
+
+.fan-gallery, .fan-gallery-info{
+	font-size: 2.5em;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-align: center;
+  }
+
+  .fan-gallery{
+	margin: 0px 0px 10px 0px;
+  }
+  .fan-gallery-info{
+	font-size: 1.5em;
+	margin: 0px 0px 20px 0px;
+  }
+  

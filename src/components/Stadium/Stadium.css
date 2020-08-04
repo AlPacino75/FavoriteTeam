@@ -1,0 +1,45 @@
+.stadium-image {
+	max-width: 550px;
+	height: auto;
+	border-radius: 9px;
+}
+
+.section-stadium{
+	border: solid 1px gainsboro;
+	background-color: #E8E8E8;
+	padding:30px;
+}
+
+.main-stadium  {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+
+}
+
+.stadium-description{
+	display: inline-block;
+	padding: 30px;
+	text-align: justify;
+}
+
+.item {
+  flex-basis: auto; 
+}
+
+.fan-stadium, .fan-stadium-info{
+	font-size: 2.5em;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-align: center;
+  }
+
+  .fan-stadium{
+	margin: 0px 0px 10px 0px;
+  }
+  .fan-stadium-info{
+	font-size: 1.5em;
+	margin: 0px 0px 20px 0px;
+  }
+  

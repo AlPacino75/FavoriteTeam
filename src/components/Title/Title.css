@@ -1,0 +1,42 @@
+.title-image {
+	max-width: 250px;
+	height: auto;
+}
+
+.main-header  {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: #333;
+  padding:15px 30px 0px 30px;
+}
+
+.main-nav ul {
+	margin: 1em 0 .5em;
+	text-align: center;
+}
+.main-nav li {
+	display: inline;
+}
+.main-nav a {
+	display: inline-block;
+  padding: .5em 1.5em;
+  color:white;
+}
+
+.item {
+  flex-basis: auto; 
+}
+.team-title{
+  font-size: 3.5em;
+  font-weight: 600;
+  color: white;
+  display: inline-block;
+  padding:0px;
+  text-transform: uppercase;
+}
+
+.main-nav-list{
+  text-transform: uppercase;
+}
